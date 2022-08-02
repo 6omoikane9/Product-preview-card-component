@@ -111,6 +111,7 @@ body {
   .container .card .hero {
     border-top-right-radius: unset;
     border-bottom-left-radius: 1rem;
+    max-height: 43rem;
   }
   .container .card .card-wrapper {
     padding: 3.1rem;
