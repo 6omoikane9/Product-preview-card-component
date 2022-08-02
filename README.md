@@ -23,6 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/vlad-ts/product-preview-card-component)
+- Live Demo URL: [GitHub Pages](https://vlad-ts.github.io/product-preview-card-component/)
 
 ### Built with
 
